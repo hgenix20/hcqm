@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "HCQM: Human Capability Quotient Map"
+abstract: "An integrated hierarchical taxonomy of human capabilities spanning eight domains (General Cognitive, Executive/Self-Regulatory, Emotional & Social, Creative & Innovation, Motivational & Adaptive, Learning & Knowledge, Digital & Technological, and Systems & Strategic), designed for both human development assessment and synthetic cognitive architecture."
+type: software
+authors:
+  - family-names: "Green"
+    given-names: "Kameron"
+    orcid: "https://orcid.org/0009-0002-8350-3641"
+version: "0.1"
+date-released: "2026-04-14"
+url: "https://github.com/hgenix20/hcqm"
+repository-code: "https://github.com/hgenix20/hcqm"
+license: "CC-BY-4.0"
+keywords:
+  - cognitive architecture
+  - capability taxonomy
+  - intelligence research
+  - artificial intelligence
+  - cognitive science
+  - human development
+  - synthetic intelligence
+  - psychometrics
