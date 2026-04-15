@@ -7,11 +7,16 @@ authors:
   - family-names: "Green"
     given-names: "Kameron"
     orcid: "https://orcid.org/0009-0002-8350-3641"
-version: "0.1"
+version: "0.1.1"
 date-released: "2026-04-14"
+doi: "10.5281/zenodo.19587600"
 url: "https://github.com/hgenix20/hcqm"
 repository-code: "https://github.com/hgenix20/hcqm"
 license: "CC-BY-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19587600"
+    description: "Zenodo archive of HCQM v0.1.1"
 keywords:
   - cognitive architecture
   - capability taxonomy
