@@ -1,5 +1,7 @@
 # HCQM: Human Capability Quotient Map
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
+
 **An integrated hierarchical taxonomy of human capabilities — designed for both human development assessment and synthetic cognitive architecture.**
 
 ---
@@ -54,9 +56,19 @@ Independent researcher working at the intersection of human capability taxonomy 
 
 If you reference HCQM in your work, please cite it using the metadata in `CITATION.cff` or:
 
-> hgenix20 (2026). *HCQM: Human Capability Quotient Map (v0.1)*. https://github.com/hgenix20/hcqm
+> Green, K. (2026). *HCQM: Human Capability Quotient Map (v0.1.1)*. Zenodo. https://doi.org/10.5281/zenodo.19587600
 
-A formal Zenodo DOI will be assigned to v1.0 upon publication.
+BibTeX:
+
+    @software{green_hcqm_2026,
+      author       = {Green, Kameron},
+      title        = {HCQM: Human Capability Quotient Map},
+      version      = {0.1.1},
+      year         = {2026},
+      publisher    = {Zenodo},
+      doi          = {10.5281/zenodo.19587600},
+      url          = {https://doi.org/10.5281/zenodo.19587600}
+    }
 
 ## License
 
