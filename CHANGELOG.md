@@ -16,6 +16,8 @@ and this project adheres to semantic versioning principles adapted for research 
 - Identification of Adversity Quotient as only HCQM construct with zero DeepMind coverage
 - Priority-ordered list of structural additions for HCQM v1.0
 - 100+ source reading list spanning all 8 HCQM domains plus cognitive architectures
+- Research thesis and positioning document (docs/thesis.md)
+- Full references section with 22 verified citations in thesis document
 
 ---
 
