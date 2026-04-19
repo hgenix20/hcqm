@@ -7,6 +7,18 @@ and this project adheres to semantic versioning principles adapted for research 
 
 ---
 
+## [Unreleased]
+
+### Added
+- DeepMind vs HCQM comparative analysis (docs/deepmind-comparison.md)
+- Literature review reading list organized by domain (docs/reading-list.md)
+- Gradient match table mapping all 31 HCQM constructs to DeepMind equivalents
+- Identification of Adversity Quotient as only HCQM construct with zero DeepMind coverage
+- Priority-ordered list of structural additions for HCQM v1.0
+- 100+ source reading list spanning all 8 HCQM domains plus cognitive architectures
+
+---
+
 ## [0.1] — 2026-04-14
 
 ### Added
