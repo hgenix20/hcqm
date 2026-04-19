@@ -268,5 +268,5 @@
 - [ ] Marcus (2001), *The Algebraic Mind*
 - [ ] Chollet (2019), *On the Measure of Intelligence*
 
-## Simiar Work
+## Similar Work
 - [x] Burnell et al. (2026). "Measuring Progress Toward AGI: A Cognitive Framework." Google DeepMind.
