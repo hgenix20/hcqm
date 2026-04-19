@@ -5,15 +5,16 @@
 ### Psychometric and Factor-Analytic Foundations
 - [ ] Spearman (1904), *General Intelligence, Objectively Determined and Measured*
 - [ ] Cattell (1943), *The Measurement of Adult Intelligence*
+- [x] Cattell (1963), *Theory of fluid and crystallized intelligence: A critical experiment*
 - [ ] Thurstone (1938), *Primary Mental Abilities*
-- [ ] Carroll (1993), *Human Cognitive Abilities: A Survey of Factor-Analytic Studies*
+- [x] Carroll (1993), *Human Cognitive Abilities: A Survey of Factor-Analytic Studies*
 - [ ] Jensen (1998), *The g Factor: The Science of Mental Ability*
 - [x] McGrew (2009), *CHC Theory and the Human Cognitive Abilities Project*
 - [ ] Borsboom (2005), *Measuring the Mind: Conceptual Issues in Contemporary Psychometrics*
 
 ### Competing and Integrative Views of Intelligence
-- [ ] Sternberg (1985), *Beyond IQ: A Triarchic Theory of Human Intelligence*
-- [ ] Gardner (1983), *Frames of Mind: The Theory of Multiple Intelligences*
+- [x] Sternberg (1985), *Beyond IQ: A Triarchic Theory of Human Intelligence*
+- [x] Gardner (1983), *Frames of Mind: The Theory of Multiple Intelligences*
 - [ ] Kovacs & Conway (2016), *Process Overlap Theory: A Unified Account of the General Factor of Intelligence*
 - [ ] Hunt (2011), *Human Intelligence*
 - [ ] Deary (2012), *Intelligence*
@@ -25,9 +26,9 @@
 - [ ] Luria (1966), *Higher Cortical Functions in Man*
 - [ ] Norman & Shallice (1986), *Attention to Action: Willed and Automatic Control of Behavior*
 - [ ] Baddeley (1986), *Working Memory*
-- [ ] Miyake et al. (2000), *The Unity and Diversity of Executive Functions and Their Contributions to Complex “Frontal Lobe” Tasks*
+- [x] Miyake et al. (2000), *The Unity and Diversity of Executive Functions and Their Contributions to Complex “Frontal Lobe” Tasks*
 - [ ] Miller & Cohen (2001), *An Integrative Theory of Prefrontal Cortex Function*
-- [ ] Diamond (2013), *Executive Functions*
+- [x] Diamond (2013), *Executive Functions*
 
 ### Cognitive Control and Goal Maintenance
 - [ ] Braver (2012), *The Variable Nature of Cognitive Control: A Dual Mechanisms Framework*
@@ -37,7 +38,7 @@
 ## Metacognition, Monitoring, and Self-Regulation
 
 ### Metacognition
-- [ ] Flavell (1979), *Metacognition and Cognitive Monitoring*
+- [x] Flavell (1979), *Metacognition and Cognitive Monitoring*
 - [ ] Brown (1987), *Metacognition, Executive Control, Self-Regulation, and Other More Mysterious Mechanisms*
 - [ ] Dunlosky & Metcalfe (2009), *Metacognition*
 - [ ] Fleming & Lau (2014), *How to Measure Metacognition*
@@ -157,7 +158,7 @@
 ## Social Cognition and Theory of Mind
 
 ### Social Intelligence and Social Perception
-- [ ] Thorndike (1920), *Intelligence and Its Uses*
+- [x] Thorndike (1920), *Intelligence and Its Uses*
 - [ ] Higgins & Bargh (1987), *Social Cognition and Social Perception*
 - [ ] Fiske & Taylor (1991), *Social Cognition*
 - [ ] Albrecht (2006), *Social Intelligence: The New Science of Success*
@@ -171,7 +172,7 @@
 ## Creativity and Innovation
 
 ### Creativity Theory
-- [ ] Guilford (1950), *Creativity*
+- [x] Guilford (1950), *Creativity*
 - [ ] Mednick (1962), *The Associative Basis of the Creative Process*
 - [ ] Amabile (1983), *The Social Psychology of Creativity*
 - [ ] Boden (1994), *What Is Creativity?*
@@ -181,7 +182,7 @@
 ### Expertise, Exploration, and Novelty Production
 - [ ] Simonton (2010), *Creative Thought as Blind Variation and Selective Retention*
 - [ ] Sawyer (2012), *Explaining Creativity*
-- [ ] Torrance (1966), *Torrance Tests of Creative Thinking*
+- [x] Torrance (1966), *Torrance Tests of Creative Thinking*
 
 ## Emotion and Emotional Intelligence
 
@@ -191,7 +192,7 @@
 - [ ] Barrett (2017), *How Emotions Are Made*
 
 ### Emotional Intelligence
-- [ ] Salovey & Mayer (1990), *Emotional Intelligence*
+- [x] Salovey & Mayer (1990), *Emotional Intelligence*
 - [ ] Goleman (1995), *Emotional Intelligence*
 - [ ] Mayer, Salovey, & Caruso (2004), *Emotional Intelligence: Theory, Findings, and Implications*
 - [ ] Roberts, Zeidner, & Matthews (2001), *Does Emotional Intelligence Meet Traditional Standards for an Intelligence?*
@@ -199,7 +200,7 @@
 ## Cultural Intelligence
 
 ### Cultural Knowledge and Cross-Cultural Adaptation
-- [ ] Earley & Ang (2003), *Cultural Intelligence: Individual Interactions Across Cultures*
+- [x] Earley & Ang (2003), *Cultural Intelligence: Individual Interactions Across Cultures*
 - [ ] Ang et al. (2007), *Cultural Intelligence: Its Measurement and Effects on Cultural Judgment and Decision Making, Cultural Adaptation and Task Performance*
 - [ ] Thomas et al. (2008), *Cultural Intelligence: Domain and Assessment*
 
@@ -214,16 +215,16 @@
 ## Adaptability, Resilience, and Persistence
 
 ### Adaptability
-- [ ] Pulakos, Arad, Donovan, & Plamondon (2000), *Adaptability in the Workplace: Development of a Taxonomy of Adaptive Performance*
+- [x] Pulakos, Arad, Donovan, & Plamondon (2000), *Adaptability in the Workplace: Development of a Taxonomy of Adaptive Performance*
 - [ ] Griffin, Neal, & Parker (2007), *A New Model of Work Role Performance*
 - [ ] Dweck (2006), *Mindset: The New Psychology of Success*
 
 ### Resilience and Persistence
 - [ ] Masten (2001), *Ordinary Magic: Resilience Processes in Development*
 - [ ] Bonanno (2004), *Loss, Trauma, and Human Resilience*
-- [ ] Duckworth, Peterson, Matthews, & Kelly (2007), *Grit: Perseverance and Passion for Long-Term Goals*
+- [x] Duckworth, Peterson, Matthews, & Kelly (2007), *Grit: Perseverance and Passion for Long-Term Goals*
 - [ ] Duckworth & Gross (2014), *Self-Control and Grit*
-- [ ] Stoltz (1997), *Adversity Quotient: Turning Obstacles into Opportunities*
+- [x] Stoltz (1997), *Adversity Quotient: Turning Obstacles into Opportunities*
 - [ ] Kashdan & Silvia (2009), *Curiosity and Interest*
 
 ## Information and Digital Literacy
@@ -237,7 +238,7 @@
 - [ ] Ng (2012), *Can We Teach Digital Natives Digital Literacy?*
 - [ ] van Deursen & van Dijk (2014), *Digital Skills: Unlocking the Information Society*
 - [ ] Wineburg & McGrew (2017), *Lateral Reading and the Nature of Expertise*
-- [ ] Wing (2006), *Computational Thinking*
+- [x] Wing (2006), *Computational Thinking*
 - [ ] Grover & Pea (2013), *Computational Thinking in K-12*
 
 ## Systems Thinking and Complex Systems
@@ -245,8 +246,8 @@
 ### Systems and Complexity
 - [ ] Forrester (1961), *Industrial Dynamics*
 - [ ] Simon (1962), *The Architecture of Complexity*
-- [ ] Senge (1990), *The Fifth Discipline*
-- [ ] Meadows (2008), *Thinking in Systems*
+- [x] Senge (1990), *The Fifth Discipline*
+- [x] Meadows (2008), *Thinking in Systems*
 - [ ] Holland (1992), *Complex Adaptive Systems*
 - [ ] Klein (1998), *Sources of Power: How People Make Decisions*
 - [ ] Kahneman (2011), *Thinking, Fast and Slow*
@@ -255,11 +256,11 @@
 
 ### Cognitive Architectures
 - [ ] Newell (1990), *Unified Theories of Cognition*
-- [ ] Anderson (2007), *How Can the Human Mind Occur in the Physical Universe?*
-- [ ] Laird (2012), *The Soar Cognitive Architecture*
-- [ ] Sun (2006), *Cognitive Architectures and Hybrid Intelligence*
-- [ ] Sumers et al. (2023), *Cognitive Architectures for Language Agents (CoALA)*
-- [ ] Burnell et al. (2026), *Measuring Progress Toward AGI: A Cognitive Framework*
+- [x] Anderson (2007), *How Can the Human Mind Occur in the Physical Universe?*
+- [x] Laird (2012), *The Soar Cognitive Architecture*
+- [x] Sun (2006), *Cognitive Architectures and Hybrid Intelligence*
+- [x] Sumers et al. (2023), *Cognitive Architectures for Language Agents (CoALA)*
+- [x] Burnell et al. (2026), *Measuring Progress Toward AGI: A Cognitive Framework*
 - [ ] Kotseruba & Tsotsos (2020), *A Review of 40 Years of Cognitive Architecture Research*
 
 ### Human-Like Intelligence in AI
@@ -267,6 +268,3 @@
 - [ ] Hassabis et al. (2017), *Neuroscience-Inspired Artificial Intelligence*
 - [ ] Marcus (2001), *The Algebraic Mind*
 - [ ] Chollet (2019), *On the Measure of Intelligence*
-
-## Similar Work
-- [x] Burnell et al. (2026). "Measuring Progress Toward AGI: A Cognitive Framework." Google DeepMind.
