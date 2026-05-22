@@ -28,7 +28,7 @@ HCQM addresses this gap by proposing a single hierarchical taxonomy that brings 
 
 v0.6 is the first publicly released draft since v0.1. It contains the full scholarly framework paper — 8 domains, 32 constructs, comparative analyses against four contemporary AI capability frameworks (CoALA, DeepMind 2026, Hendrycks 2025, OECD 2025), 62 verified references, and a three-stage evaluation protocol sketch. v0.2–v0.5 were internal working drafts.
 
-**v0.6 DOI:** *(pending Zenodo archival — will be updated)*
+**v0.6 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20345943.svg)](https://doi.org/10.5281/zenodo.20345943)
 **v0.1 DOI (priority anchor):** [10.5281/zenodo.19587600](https://doi.org/10.5281/zenodo.19587600)
 
 v1.0 will follow after external reviewer feedback is integrated (~mid-June 2026). See `whitepaper/HCQM_v0.6.md` for the full paper.
@@ -66,7 +66,7 @@ Independent researcher working at the intersection of human capability taxonomy 
 If you reference HCQM in your work, please cite it using the metadata in `CITATION.cff` or:
 
 **Citing v0.6 (current public draft):**
-> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.6). Zenodo. *(DOI pending — see CITATION.cff for update)*
+> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.6). Zenodo. https://doi.org/10.5281/zenodo.20345943
 
 **Citing v0.1 (priority anchor):**
 > Green, K. M. (2026). *HCQM: Human Capability Quotient Map* (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.19587600

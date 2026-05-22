@@ -18,8 +18,8 @@ identifiers:
     value: "10.5281/zenodo.19587600"
     description: "Zenodo archive of HCQM v0.1 — priority anchor"
   - type: doi
-    value: ""
-    description: "Zenodo archive of HCQM v0.6 — external-review public draft (pending)"
+    value: "10.5281/zenodo.20345943"
+    description: "Zenodo archive of HCQM v0.6 — external-review public draft"
 keywords:
   - cognitive architecture
   - capability taxonomy
