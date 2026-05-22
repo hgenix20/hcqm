@@ -1,6 +1,7 @@
 # HCQM: Human Capability Quotient Map
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
+![Version](https://img.shields.io/badge/version-v0.6--external--review-blue)
 
 **An integrated hierarchical taxonomy of human capabilities — designed for both human development assessment and synthetic cognitive architecture.**
 
@@ -23,45 +24,57 @@ HCQM addresses this gap by proposing a single hierarchical taxonomy that brings 
 
 ## Current status
 
-**Early-stage research project.** HCQM v0.1 is a working draft synthesized from existing capability research. A scholarly v1.0 with full literature review and citations is in active development. An accompanying architecture whitepaper is planned as a follow-up publication.
+**Current public version: v0.6 (external-review draft, 2026-05-22)**
 
-This repository is public from inception to establish development timeline and invite early engagement. Work-in-progress content is committed transparently.
+v0.6 is the first publicly released draft since v0.1. It contains the full scholarly framework paper — 8 domains, 32 constructs, comparative analyses against four contemporary AI capability frameworks (CoALA, DeepMind 2026, Hendrycks 2025, OECD 2025), 62 verified references, and a three-stage evaluation protocol sketch. v0.2–v0.5 were internal working drafts.
+
+**v0.6 DOI:** *(pending Zenodo archival — will be updated)*
+**v0.1 DOI (priority anchor):** [10.5281/zenodo.19587600](https://doi.org/10.5281/zenodo.19587600)
+
+v1.0 will follow after external reviewer feedback is integrated (~mid-June 2026). See `whitepaper/HCQM_v0.6.md` for the full paper.
 
 ## Roadmap
 
-- **Phase 1 — HCQM v1.0 (in progress):** Literature review across all eight domains, formal synthesis paper with proper scholarly grounding, positioning against adjacent work (DeepMind cognitive taxonomy, CoALA, classical cognitive architectures).
-- **Phase 2 — Architecture whitepaper (planned):** A companion paper proposing HCQM as a prescriptive engineering blueprint for synthetic cognitive architectures, with module decomposition and integration model.
-- **Phase 3 — Reference implementation (planned):** First working module demonstrating HCQM-grounded architecture principles.
-- **Phase 4+ — Additional modules, integration, and evaluation:** Long-term research program.
+- **v0.6 — external-review draft (current):** Full framework paper released for external review. Comparative analyses against CoALA, DeepMind, Hendrycks, and OECD frameworks complete.
+- **v1.0 — post-review release (~mid-June 2026):** Integrates external reviewer feedback. First stable public release.
+- **v1.1 — subcomponent refinements (Q3 2026):** Episodic/procedural memory as explicit constructs, cognitive resource allocation subcomponent, hallucination/retrieval precision, capability-to-instrument mapping table.
+- **Architecture whitepaper (planned, Q3–Q4 2026):** HCQM as a prescriptive capacity-layer specification for synthetic cognitive architectures, with module decomposition and integration model.
+- **Reference implementation (planned, 2027):** First working module demonstrating HCQM-grounded architecture principles.
+- **v2.0 — empirical validation (2027+):** Full instrument battery with psychometric validation, predictive validity studies, cross-cultural validation.
 
-See `ROADMAP.md` for more detail (once added).
+See `ROADMAP.md` for full detail.
 
 ## Repository structure
 
-- `HCQM.md` — current version of the capability taxonomy (v0.1 working draft)
-- `docs/thesis.md` — research thesis and positioning (to be added)
-- `docs/related-work.md` — literature review notes and comparisons (to be added)
-- `whitepaper/` — in-progress scholarly paper (to be added)
+- `whitepaper/HCQM_v0.6.md` — current public version of the framework paper (v0.6 external-review draft)
+- `HCQM.md` — original v0.1 working draft (retained as priority anchor)
+- `docs/thesis.md` — research thesis and positioning against adjacent frameworks
+- `docs/deepmind-comparison.md` — gradient-match analysis vs. DeepMind cognitive taxonomy
+- `docs/related-work.md` — literature review notes
 - `CHANGELOG.md` — version history
 - `CITATION.cff` — citation metadata
 - `LICENSE` — CC BY 4.0
 
 ## Author
 
-**hgenix20**
-ORCID: [https://orcid.org/0009-0002-8350-3641](https://orcid.org/0009-0002-8350-3641)
-Independent researcher working at the intersection of human capability taxonomy and AI cognitive architecture.
+**Kameron M. Green**
+ORCID: [0009-0002-8350-3641](https://orcid.org/0009-0002-8350-3641)
+Independent researcher working at the intersection of human capability taxonomy and AI cognitive architecture. MS in Computer Science (AI concentration), University of Nebraska at Omaha.
 
 ## Citing this work
 
 If you reference HCQM in your work, please cite it using the metadata in `CITATION.cff` or:
 
-> Green, K. (2026). *HCQM: Human Capability Quotient Map (v0.1.1)*. Zenodo. https://doi.org/10.5281/zenodo.19587600
+**Citing v0.6 (current public draft):**
+> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.6). Zenodo. *(DOI pending — see CITATION.cff for update)*
 
-BibTeX:
+**Citing v0.1 (priority anchor):**
+> Green, K. M. (2026). *HCQM: Human Capability Quotient Map* (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.19587600
+
+BibTeX (v0.1 priority anchor):
 
     @software{green_hcqm_2026,
-      author       = {Green, Kameron},
+      author       = {Green, Kameron M.},
       title        = {HCQM: Human Capability Quotient Map},
       version      = {0.1.1},
       year         = {2026},

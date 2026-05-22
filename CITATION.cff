@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "HCQM: Human Capability Quotient Map"
-abstract: "An integrated hierarchical taxonomy of human capabilities spanning eight domains (General Cognitive, Executive/Self-Regulatory, Emotional & Social, Creative & Innovation, Motivational & Adaptive, Learning & Knowledge, Digital & Technological, and Systems & Strategic), designed for both human development assessment and synthetic cognitive architecture."
+title: "HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence"
+abstract: "An integrated hierarchical taxonomy of human capabilities spanning eight domains (General Cognitive, Executive/Self-Regulatory, Emotional & Social, Creative & Innovation, Motivational & Adaptive, Learning & Knowledge, Digital & Technological, and Systems & Strategic), with 32 constructs, ~120 subcomponents, and ~130 behavioral indicators. Designed for both human capability assessment and as a partial prescriptive capacity-layer specification for synthetic cognitive architectures."
 type: software
 authors:
   - family-names: "Green"
-    given-names: "Kameron"
+    given-names: "Kameron M."
     orcid: "https://orcid.org/0009-0002-8350-3641"
-version: "0.1.1"
-date-released: "2026-04-14"
+version: "0.6"
+date-released: "2026-05-22"
 doi: "10.5281/zenodo.19587600"
 url: "https://github.com/hgenix20/hcqm"
 repository-code: "https://github.com/hgenix20/hcqm"
@@ -16,13 +16,18 @@ license: "CC-BY-4.0"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.19587600"
-    description: "Zenodo archive of HCQM v0.1.1"
+    description: "Zenodo archive of HCQM v0.1 — priority anchor"
+  - type: doi
+    value: ""
+    description: "Zenodo archive of HCQM v0.6 — external-review public draft (pending)"
 keywords:
   - cognitive architecture
   - capability taxonomy
-  - intelligence research
+  - human intelligence
   - artificial intelligence
   - cognitive science
   - human development
-  - synthetic intelligence
+  - synthetic cognition
   - psychometrics
+  - AGI evaluation
+  - CHC theory

@@ -7,17 +7,38 @@ and this project adheres to semantic versioning principles adapted for research 
 
 ---
 
-## [Unreleased]
+## [0.6] — 2026-05-22
+
+First public release since v0.1. External-review public draft.
+
+v0.2–v0.5 were internal working drafts not publicly released. v0.6 is the first
+publicly released draft since v0.1 and is intentionally labeled below v1.0 because
+external review has not yet been integrated. v1.0 will follow after reviewer
+feedback is triaged and applied (~mid-June 2026).
 
 ### Added
+- HCQM whitepaper v0.6 (`whitepaper/HCQM_v0.6.md`) — full scholarly framework paper
+  integrating 8 capability domains, 32 constructs, ~120 subcomponents, ~130 behavioral
+  indicators, with per-domain theoretical grounding and dual-use (human + synthetic) framing
+- Comparative analyses against four contemporary AI capability frameworks:
+  CoALA (Sumers et al., 2024), DeepMind (Burnell et al., 2026),
+  Hendrycks et al. (2025), OECD (2025) — Appendices D, E, G, H
+- Figure 1: HCQM schematic across all 8 domains and 32 constructs (§3.1)
+- Figure 2: cross-framework coverage comparison schematic (§2.11.7)
+- §6.7 three-stage evaluation protocol sketch
+- Appendices A–I: full hierarchical tree, indicator catalog, source mapping,
+  gradient-match tables, CHC broad-ability mapping, version notes
+- 62 references, all DOIs independently verified
 - DeepMind vs HCQM comparative analysis (docs/deepmind-comparison.md)
 - Literature review reading list organized by domain (docs/reading-list.md)
-- Gradient match table mapping all 31 HCQM constructs to DeepMind equivalents
-- Identification of Adversity Quotient as only HCQM construct with zero DeepMind coverage
-- Priority-ordered list of structural additions for HCQM v1.0
-- 100+ source reading list spanning all 8 HCQM domains plus cognitive architectures
 - Research thesis and positioning document (docs/thesis.md)
-- Full references section with 22 verified citations in thesis document
+
+### Changed
+- Construct count corrected to 32 (was inconsistently listed as 31 in v0.1)
+- "Prescriptive" language scoped to "partially prescriptive at the capacity layer only"
+- Adversity Quotient unique-coverage claim extended from 2-framework to
+  4-framework intersection (DeepMind, CoALA, Hendrycks, OECD)
+- All citations verified against primary sources; DOIs confirmed
 
 ---
 
