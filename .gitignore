@@ -340,3 +340,6 @@ pdfs/
 *.tmp
 *.bak
 *.orig
+
+# Claude Code
+.claude/

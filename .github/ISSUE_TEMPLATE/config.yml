@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General discussion or open question
+    url: https://github.com/hgenix20/hcqm/discussions
+    about: For open-ended discussion, questions about positioning, or topics that don't fit the issue templates above
+  - name: HCQM framework repository
+    url: https://github.com/hgenix20/hcqm
+    about: Main repository landing page with README, whitepaper, and supporting documents
+  - name: Author ORCID
+    url: https://orcid.org/0009-0002-8350-3641
+    about: Kameron M. Green's ORCID record
