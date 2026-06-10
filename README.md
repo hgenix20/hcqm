@@ -32,7 +32,7 @@ v0.8 integrates all external reviewer feedback and is the pre-arXiv release. It 
 
 **v0.1 DOI (priority anchor):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
 **v0.6 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20345943.svg)](https://doi.org/10.5281/zenodo.20345943)
-**v0.8 DOI:** pending Zenodo archive
+**v0.8 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20632044.svg)](https://doi.org/10.5281/zenodo.20632044)
 
 See `whitepaper/HCQM_v0.8.md` for the full paper.
 
@@ -76,8 +76,8 @@ Independent researcher working at the intersection of human capability taxonomy 
 
 If you reference HCQM, please cite the most recent archived version. Metadata is in `CITATION.cff`.
 
-**Citing v0.6 (most recent Zenodo archive):**
-> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.6). Zenodo. https://doi.org/10.5281/zenodo.20345943
+**Citing v0.8 (most recent Zenodo archive):**
+> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.8). Zenodo. https://doi.org/10.5281/zenodo.20632044
 
 **Citing v0.1 (priority anchor):**
 > Green, K. M. (2026). *HCQM: Human Capability Quotient Map* (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.19587600
