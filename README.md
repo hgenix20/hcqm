@@ -30,9 +30,10 @@ HCQM addresses this gap by proposing a single hierarchical taxonomy that integra
 
 v1.0 is the clean publication release. All external reviewer feedback is integrated. Acknowledgments finalized: Dr. Kevin McGrew (Institute for Applied Psychometrics) + two anonymous reviewers. v0.8 is retained for reference.
 
-**v0.1 DOI (priority anchor):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
-**v0.6 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20345943.svg)](https://doi.org/10.5281/zenodo.20345943)
+**v1.0 DOI (current):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20668273.svg)](https://doi.org/10.5281/zenodo.20668273)
 **v0.8 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20632044.svg)](https://doi.org/10.5281/zenodo.20632044)
+**v0.6 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20345943.svg)](https://doi.org/10.5281/zenodo.20345943)
+**v0.1 DOI (priority anchor):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
 
 See `whitepaper/HCQM_v1.0.md` for the full paper.
 
@@ -77,10 +78,10 @@ Independent researcher working at the intersection of human capability taxonomy 
 
 If you reference HCQM, please cite the most recent archived version. Metadata is in `CITATION.cff`.
 
-**Citing v1.0 (current release — Zenodo DOI pending, use v0.8 DOI until updated):**
-> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20632044
+**Citing v1.0 (current release):**
+> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20668273
 
-**Citing v0.8 (last Zenodo-archived release):**
+**Citing v0.8 (prior release):**
 > Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.8). Zenodo. https://doi.org/10.5281/zenodo.20632044
 
 **Citing v0.1 (priority anchor):**

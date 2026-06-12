@@ -11,7 +11,7 @@ and this project adheres to semantic versioning principles adapted for research 
 
 Publication release. Derived from v0.8 with internal working-draft scaffolding removed. No substantive content changes from v0.8.
 
-**Note:** Zenodo DOI for v1.0 will be added to `CITATION.cff` in a follow-up commit after archival.
+**Zenodo DOI:** 10.5281/zenodo.20668273
 
 ### Added
 - `whitepaper/HCQM_v1.0.md` — clean publication release

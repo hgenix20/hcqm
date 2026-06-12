@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-8350-3641"
 version: "1.0"
 date-released: "2026-06-12"
-doi: "10.5281/zenodo.20632044"
+doi: "10.5281/zenodo.20668273"
 url: "https://github.com/hgenix20/hcqm"
 repository-code: "https://github.com/hgenix20/hcqm"
 license: "CC-BY-4.0"
@@ -22,7 +22,10 @@ identifiers:
     description: "Zenodo archive of HCQM v0.6 — external-review public draft"
   - type: doi
     value: "10.5281/zenodo.20632044"
-    description: "Zenodo archive of HCQM v0.8 — reviewer-revised draft (v1.0 DOI to be added after Zenodo archival)"
+    description: "Zenodo archive of HCQM v0.8 — reviewer-revised draft"
+  - type: doi
+    value: "10.5281/zenodo.20668273"
+    description: "Zenodo archive of HCQM v1.0 — publication release"
 keywords:
   - cognitive architecture
   - capability taxonomy
