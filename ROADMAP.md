@@ -68,20 +68,19 @@ v0.8 contains:
 
 ## v1.0 milestones
 
-v1.0 is gated on two items:
-
-1. **Acknowledgment confirmation** from Hernández-Orallo (anonymous in v0.8 pending his response)
-2. **arXiv endorser secured** (UNO faculty pathway + outreach to Hernández-Orallo and Laird)
+All v1.0 gates resolved as of 2026-06-12.
 
 | Item | Status |
 |---|---|
 | External review — McGrew | Complete (9 items applied to v0.7/v0.8) |
 | External review — Laird | Complete (CMC framing, metacognition note) |
-| External review — Hernández-Orallo | Complete (catalogue added; terminology corrected); acknowledgment TBD |
-| Hernández-Orallo acknowledgment preference | Pending reply |
-| arXiv endorser secured | Pending (Hernández-Orallo + Laird asked; UNO follow-up needed) |
-| Update acknowledgments per Orallo reply | Pending |
-| Final GitHub + Zenodo + arXiv submission | Pending above two items |
+| External review — Hernández-Orallo | Complete (catalogue added; terminology corrected) |
+| Hernández-Orallo acknowledgment preference | Complete — anonymous confirmed 2026-06-12 |
+| arXiv endorser secured | Complete — endorsed by Hernández-Orallo (code YPQXYK), 2026-06-12 |
+| Update acknowledgments per Orallo reply | Complete — two anonymous reviewers + McGrew (named) |
+| GitHub v1.0 tagged and pushed | Complete — tag `v1.0`, commit `deeb24a` |
+| Zenodo v1.0 archived | Complete — DOI: 10.5281/zenodo.20668273 |
+| arXiv submitted | Complete — submission `submit/7707871`, 2026-06-12; announcement pending (≤2 business days) |
 
 ---
 
@@ -125,8 +124,9 @@ v1.0 is gated on two items:
 
 ## Open dependencies
 
-- arXiv endorser (required for arXiv submission; cs.AI; UNO + Hernández-Orallo + Laird pathway)
-- Hernández-Orallo acknowledgment preference reply
+- arXiv announcement — expected within 2 business days of 2026-06-12; update ROADMAP with arXiv ID when assigned
+- ORCID — add v1.0 as a Work under DOI `10.5281/zenodo.20668273`; add arXiv preprint entry once ID is assigned
+- GitHub Release — create release `v1.0` with DOI badge and cite block pointing to `10.5281/zenodo.20668273`
 - Personal domain for HCQM project landing page
 - USPTO search and naming lock-in
 - Vault-repo split decision
