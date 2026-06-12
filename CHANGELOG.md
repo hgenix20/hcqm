@@ -7,6 +7,24 @@ and this project adheres to semantic versioning principles adapted for research 
 
 ---
 
+## [1.0] — 2026-06-12
+
+Publication release. Derived from v0.8 with internal working-draft scaffolding removed. No substantive content changes from v0.8.
+
+**Note:** Zenodo DOI for v1.0 will be added to `CITATION.cff` in a follow-up commit after archival.
+
+### Added
+- `whitepaper/HCQM_v1.0.md` — clean publication release
+
+### Changed
+- Acknowledgments finalized: Dr. Kevin McGrew (Institute for Applied Psychometrics, named) + two anonymous reviewers
+- Version label updated to 1.0 throughout the paper
+- Front matter cleaned: version-scaffolding blocks and reviewer-status notes removed
+- Appendix J (internal version notes / audit trail) removed; paper now ends at Appendix I
+- All internal "future work / before v1.0" forward-references converted to version-neutral language in prior v0.8 pass
+
+---
+
 ## [0.8] — 2026-06-09
 
 Reviewer-revised draft. All external reviewer feedback integrated. Pre-publication review pass complete. This version is complete pending one acknowledgment confirmation (Hernández-Orallo) and an arXiv endorser. v1.0 will follow once those are resolved.

@@ -1,7 +1,7 @@
 # HCQM Roadmap
 
 **Author:** Kameron M. Green
-**Last updated:** 2026-06-09
+**Last updated:** 2026-06-12
 **Status:** Living document
 **Repository:** https://github.com/hgenix20/hcqm
 **Zenodo DOI (v0.1):** 10.5281/zenodo.19587600
@@ -10,9 +10,9 @@
 
 ---
 
-## Current state (v0.8, 2026-06-09)
+## Current state (v1.0, 2026-06-12)
 
-HCQM v0.8 is the reviewer-revised draft. All external reviewer feedback has been integrated. This version is complete pending one acknowledgment confirmation and an arXiv endorser. v1.0 will follow once those are resolved.
+HCQM v1.0 is the publication release. All external reviewer feedback has been integrated. Acknowledgments confirmed: Dr. Kevin McGrew (Institute for Applied Psychometrics, named) + two anonymous reviewers. This is the clean arXiv-ready copy (internal scaffolding removed from v0.8).
 
 v0.8 contains:
 
@@ -39,8 +39,8 @@ v0.8 contains:
 | v0.2–v0.5 | 2026-04–05 | Superseded | Internal working drafts |
 | v0.6 | 2026-05-22 | Superseded | External-review public draft; Zenodo DOI: 10.5281/zenodo.20345943 |
 | v0.7 | 2026-06-01 | Vault working draft | Reviewer revisions integrated (Laird, McGrew, Hernández-Orallo); not released to GitHub |
-| **v0.8** | **2026-06-09** | **Current public release** | All reviewer revisions; pre-publication review; 5th framework; arXiv-ready pending endorser |
-| v1.0 | Target | Pending arXiv | Post-Hernández-Orallo acknowledgment + arXiv submission |
+| v0.8 | 2026-06-09 | Superseded | All reviewer revisions; pre-publication review; 5th framework; retained for reference |
+| **v1.0** | **2026-06-12** | **Current public release** | Clean publication copy; acknowledgments confirmed; internal scaffolding removed |
 
 ---
 

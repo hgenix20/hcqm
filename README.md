@@ -1,7 +1,7 @@
 # HCQM: Human Capability Quotient Map
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
-![Version](https://img.shields.io/badge/version-v0.8-blue)
+![Version](https://img.shields.io/badge/version-v1.0-blue)
 
 **An integrated hierarchical taxonomy of human capabilities — designed for both human development assessment and synthetic cognitive architecture.**
 
@@ -26,21 +26,22 @@ HCQM addresses this gap by proposing a single hierarchical taxonomy that integra
 
 ## Current status
 
-**Current public version: v0.8 (reviewer-revised draft, 2026-06-09)**
+**Current public version: v1.0 (publication release, 2026-06-12)**
 
-v0.8 integrates all external reviewer feedback and is the pre-arXiv release. It supersedes v0.6 for reading. v1.0 will follow after one pending acknowledgment confirmation and arXiv endorsement are secured.
+v1.0 is the clean publication release. All external reviewer feedback is integrated. Acknowledgments finalized: Dr. Kevin McGrew (Institute for Applied Psychometrics) + two anonymous reviewers. v0.8 is retained for reference.
 
 **v0.1 DOI (priority anchor):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19587600.svg)](https://doi.org/10.5281/zenodo.19587600)
 **v0.6 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20345943.svg)](https://doi.org/10.5281/zenodo.20345943)
 **v0.8 DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20632044.svg)](https://doi.org/10.5281/zenodo.20632044)
 
-See `whitepaper/HCQM_v0.8.md` for the full paper.
+See `whitepaper/HCQM_v1.0.md` for the full paper.
 
 ## Repository structure
 
 ```
 whitepaper/
-  HCQM_v0.8.md          current version (reviewer-revised draft)
+  HCQM_v1.0.md          current version (publication release)
+  HCQM_v0.8.md          prior release (reviewer-revised draft, retained for reference)
   HCQM_v0.6.md          prior public release (retained for archive)
   HCQM.png              Figure 1 — HCQM schematic (8 domains, 33 capabilities)
   HCQM-comparison.png   Figure 2 — five-framework coverage comparison
@@ -58,8 +59,8 @@ LICENSE                 CC BY 4.0
 
 ## Roadmap
 
-- **v0.8 — reviewer-revised draft (current):** All external reviewer feedback integrated. Five-framework comparative analyses (CoALA, DeepMind, Hendrycks, OECD, ADeLe). 33 constructs. CHC terminology updated to Schneider and McGrew (2018). Pre-arXiv release.
-- **v1.0 — arXiv release (target: mid-2026):** Pending one acknowledgment confirmation and arXiv endorser. No substantive content changes planned.
+- **v1.0 — publication release (current, 2026-06-12):** Clean publication copy. All external reviewer feedback integrated. Acknowledgments finalized. Internal scaffolding removed.
+- **v0.8 — reviewer-revised draft:** Five-framework comparative analyses. 33 constructs. CHC terminology updated to Schneider and McGrew (2018). Retained for reference.
 - **v1.1 — subcomponent refinements (Q3 2026):** Episodic/procedural memory constructs, cognitive resource allocation, hallucination/retrieval precision, capability-to-instrument mapping table.
 - **Architecture whitepaper (planned, Q3–Q4 2026):** HCQM as a prescriptive capacity-layer specification for synthetic cognitive architectures, with module decomposition and integration model.
 - **v2.0 — empirical validation (2027+):** Full instrument battery, psychometric validation, predictive validity studies, cross-cultural validation.
@@ -76,7 +77,10 @@ Independent researcher working at the intersection of human capability taxonomy 
 
 If you reference HCQM, please cite the most recent archived version. Metadata is in `CITATION.cff`.
 
-**Citing v0.8 (most recent Zenodo archive):**
+**Citing v1.0 (current release — Zenodo DOI pending, use v0.8 DOI until updated):**
+> Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20632044
+
+**Citing v0.8 (last Zenodo-archived release):**
 > Green, K. M. (2026). *HCQM: A Hierarchical Capability Map for Assessing and Developing Human and Synthetic Intelligence* (v0.8). Zenodo. https://doi.org/10.5281/zenodo.20632044
 
 **Citing v0.1 (priority anchor):**
